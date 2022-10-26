@@ -11,3 +11,7 @@ Initial release of comment-plugin.
 ### 1.0.1
 
 Update Readme.
+
+### 1.0.2
+
+package.json repository update.
