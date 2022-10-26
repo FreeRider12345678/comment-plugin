@@ -15,3 +15,7 @@ Update Readme.
 ### 1.0.2
 
 package.json repository update.
+
+### 1.0.3
+
+package.json release update.

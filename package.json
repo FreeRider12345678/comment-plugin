@@ -3,11 +3,13 @@
 	"displayName": "Comment-Plugin",
 	"description": "A plugin for un/comment in vscode",
 	"version": "1.0.2",
-  "author": "FreeRider12345678",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FreeRider12345678/comment-plugin.git"
-  },
+	"author": "FreeRider12345678",
+	"license": "UNLICENSED",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FreeRider12345678/comment-plugin.git"
+	},
+	"icon": "./logo.png",
 	"engines": {
 		"vscode": "^1.72.0"
 	},
