@@ -19,3 +19,7 @@ package.json repository update.
 ### 1.0.3
 
 package.json release update.
+
+### 1.0.4
+
+package.json publisher.
