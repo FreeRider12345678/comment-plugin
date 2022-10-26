@@ -23,3 +23,7 @@ package.json release update.
 ### 1.0.4
 
 package.json publisher.
+
+### 1.0.5
+
+Version fix.
