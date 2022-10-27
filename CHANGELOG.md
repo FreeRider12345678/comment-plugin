@@ -35,3 +35,7 @@ Update Changelog.md.
 ### 1.1.0
 
 Light Theme update.
+
+### 1.1.1 
+
+Add license.

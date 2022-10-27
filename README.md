@@ -4,6 +4,6 @@ This is a plugin for VSCode to comment and uncomment code with buttons on the To
 
 ## Release Notes
 
-### 1.1.0
+### 1.1.1 
 
-Light Theme update.
+Add license.
