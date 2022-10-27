@@ -27,3 +27,7 @@ package.json publisher.
 ### 1.0.5
 
 Version fix.
+
+### 1.0.6
+
+Update Changelog.md.

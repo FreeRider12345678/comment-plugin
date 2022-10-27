@@ -2,7 +2,7 @@
 	"name": "comment-plugin",
 	"displayName": "Comment-Plugin",
 	"description": "A plugin for un/comment in vscode",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"author": "FreeRider12345678",
 	"publisher": "FreeRider12345678",
 	"license": "UNLICENSED",
