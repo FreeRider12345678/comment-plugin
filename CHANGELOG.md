@@ -31,3 +31,7 @@ Version fix.
 ### 1.0.6
 
 Update Changelog.md.
+
+### 1.1.0
+
+Light Theme update.

@@ -2,7 +2,7 @@
 	"name": "comment-plugin",
 	"displayName": "Comment-Plugin",
 	"description": "A plugin for un/comment in vscode",
-	"version": "1.0.6",
+	"version": "1.1.0",
 	"author": "FreeRider12345678",
 	"publisher": "FreeRider12345678",
 	"license": "UNLICENSED",
@@ -27,7 +27,7 @@
 				"command": "comment-plugin.comment",
 				"title": "Comment",
 				"icon": {
-					"light": "Icons/list-flat.svg",
+					"light": "Icons/list-flat-light.svg",
 					"dark": "Icons/list-flat.svg"
 				}
 			},
@@ -35,7 +35,7 @@
 				"command": "comment-plugin.uncomment",
 				"title": "Uncomment",
 				"icon": {
-					"light": "Icons/debug-restart-frame.svg",
+					"light": "Icons/debug-restart-frame-light.svg",
 					"dark": "Icons/debug-restart-frame.svg"
 				}
 			}
